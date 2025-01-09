@@ -58,7 +58,8 @@ public class SecurityConfig {
                 "https://a2d5-181-115-208-73.ngrok-free.app",
                 "https://ee9b-181-115-208-73.ngrok-free.app",
                 "https://8e8c-181-115-208-73.ngrok-free.app",
-            "https://bad3-181-115-208-73.ngrok-free.app"
+            "https://bad3-181-115-208-73.ngrok-free.app",
+            "https://mesa2-p-front.vercel.app"
         ));
         
         // Especificar los métodos HTTP permitidos
