@@ -57,7 +57,8 @@ public class SecurityConfig {
                 "http://127.0.0.1:4040",
                 "https://a2d5-181-115-208-73.ngrok-free.app",
                 "https://ee9b-181-115-208-73.ngrok-free.app",
-                "https://8e8c-181-115-208-73.ngrok-free.app"
+                "https://8e8c-181-115-208-73.ngrok-free.app",
+            "https://bad3-181-115-208-73.ngrok-free.app"
         ));
         
         // Especificar los métodos HTTP permitidos
